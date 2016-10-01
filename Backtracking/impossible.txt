@@ -1,0 +1,10 @@
+one,two
+one,tres
+one,cuatro
+one,five
+two,tres
+two,cuatro
+two,five
+tres,cuatro
+tres,five
+cuatro,five
